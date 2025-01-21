@@ -8,7 +8,7 @@ A user script designed to automate participation in all giveaways on **Instant G
 - **Multilingual Support**: Compatible with all language versions of the Instant Gaming website.
 - **Error Handling**: Notifications for issues such as missing participation buttons or errors when fetching the giveaway list.
 - **Progress Notifications**: Get notified about the progress of your participation.
-- **User-Friendly**: Adds a simple control button to start and stop the script.
+- **User-Friendly**: Adds a simple control button to start
 
 ## Prerequisites
 
@@ -27,19 +27,6 @@ A user script designed to automate participation in all giveaways on **Instant G
 2. The script will add a "Start Giveaways" button at the top right of your screen.
 3. Click this button to start the automatic participation process in all active giveaways.
 4. The script will process each giveaway and notify you of the progress.
-
-## Customization
-
-- You can easily modify the JSON file to add or remove giveaways from the list.
-- You can adjust the script settings to modify the maximum number of concurrent tabs opened.
-
-## Contributing
-
-If you want to contribute to this project, please follow these steps:
-
-1. Fork this repository.
-2. Create a new branch for your changes.
-3. Submit a pull request detailing your changes.
 
 ## Help
 
