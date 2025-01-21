@@ -10,6 +10,8 @@
 // @grant        GM_addStyle
 // @grant        GM_setValue
 // @grant        GM_getValue
+// @updateURL    https://raw.githubusercontent.com/loyds44/Instant-Gaming-Auto-Giveaway/main/Instant-Gaming%20Auto%20Giveaway.js
+// @downloadURL  https://raw.githubusercontent.com/loyds44/Instant-Gaming-Auto-Giveaway/main/Instant-Gaming%20Auto%20Giveaway.js
 // ==/UserScript==
 
 let giveawayLinks = [];
